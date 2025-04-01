@@ -1,5 +1,8 @@
-# Node_Prisma
-![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/150px-Node.js_logo.svg.png)
+# Node_authentication
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express Logo" width="200">    <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT Logo" width="50" height="50">
+
+
 
 
 ### Create application
@@ -18,18 +21,11 @@ npm install express dotenv bcrypt jsonwebtoken
 
 ---
 
-### Prisma installation
 
+### Prisma instalation
 ```.
 
-npm install prisma --save-dev
-
-```
-
-### Prisma-Client instalation
-```.
-
-npm install @prisma/client
+npm install prisma @prisma/client
 
 ```
 
