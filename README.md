@@ -3,7 +3,14 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express Logo" width="200">    <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT Logo" width="50" height="50">
 
 
+### Configuration .env
+```.env
 
+DATABASE_URL="your database URL"
+PORT=your door
+JWT_SECRET=add the key you created
+
+```
 
 ### Create application
 ```.
