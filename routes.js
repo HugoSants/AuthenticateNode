@@ -8,6 +8,6 @@ const userController = new UserController()
 const acessController = new AcessController()
 const loginController = new LoginController()
 
+router.get('/home', acessController.home)
 router.post('/cad', userController.create)
 router.post('/login', loginController.auth)
-router.get('/home', acessController.home)
